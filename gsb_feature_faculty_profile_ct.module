@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the GSB Feature Faculty Profile Content Type feature.
+ */
+
+include_once 'gsb_feature_faculty_profile_ct.features.inc';
