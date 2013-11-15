@@ -5,7 +5,6 @@ version = 7.x-1.0
 project = gsb_feature_faculty_profile_ct
 dependencies[] = ctools
 dependencies[] = features
-dependencies[] = gsb_feature_working_paper_ct
 dependencies[] = strongarm
 dependencies[] = text
 features[ctools][] = strongarm:strongarm:1
